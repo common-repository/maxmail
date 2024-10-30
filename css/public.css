@@ -1,0 +1,31 @@
+.maxmail { }
+
+
+.maxmail { padding: 0.5em; }
+.maxmail .form-field { padding: 0.3em 0; }
+.maxmail label.form-field-label { width: 10em; display: inline-block; vertical-align: top; }
+
+.maxmail input[type=text], .maxmail textarea { width: 20em; }
+
+
+.maxmail .form-actions { padding: 1em 0.5em 0.5em 10em; }
+
+.maxmail .checkboxes { display: inline-block; width: 20em; }
+.maxmail .checkbox-input-and-label { display: inline-block; margin-right: 1em; }
+.maxmail .checkbox-input-and-label label { padding-left: 0.2em; }
+
+
+
+
+.maxmail div.error, .maxmail div.success {
+    padding: 1em;
+    margin: 0 0 1em 0;
+}
+.maxmail div.error { 
+    border: 2px solid rgba(255,0,0,0.2); 
+    background: rgba(255,0,0,0.2); 
+}
+.maxmail div.success { 
+    border: 2px solid rgba(0,255,0,0.2); 
+    background: rgba(0,255,0,0.2); 
+}

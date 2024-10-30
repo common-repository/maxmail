@@ -1,0 +1,19 @@
+
+.maxmail .form-field { padding: 0.5em 0; }
+.maxmail .form-field label { display: block; font-weight: bold; font-size: 0.9em; }
+.maxmail .form-field input { width: 25em !important; } 
+.maxmail .form-actions { padding: 0.5em 0; }
+
+
+.maxmail .visible-fields table { border-collapse: collapse; }
+.maxmail .visible-fields table th { text-align: left; padding: 0.3em 1em; }
+.maxmail .visible-fields table td { padding: 0.3em 1em; }
+.maxmail .visible-fields tbody tr:nth-child(2n+1) td { background: rgba(0,0,0,0.05); }
+
+
+.maxmail .section { padding: 1em; margin: 0.5em; background: #e7e7e7; border-radius: 0.5em; } 
+
+
+
+
+.maxmail .visible-fields .spinner { float: none; margin: 1em; }
